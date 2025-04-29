@@ -14,5 +14,6 @@ String gender;
     void walk(){
         System.out.println("Walking");
     }
+void printDetails(){}
 
 }

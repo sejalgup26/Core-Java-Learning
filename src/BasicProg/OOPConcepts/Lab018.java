@@ -8,5 +8,5 @@ public class Lab018 {
     }
     //Person- class
     //p-reference variable
-    //new Person- object
+    //new Person- objectM
 }
