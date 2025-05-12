@@ -1,9 +1,8 @@
 package src.BasicProg.Practise;
 
 import java.util.*;
-import java.io.*;
 
-class Solution{
+class Seriesprnt {
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
         int t=in.nextInt();
