@@ -12,5 +12,8 @@ public class update {
         mylist.add("Green");
         mylist.set(2, "Black");
         System.out.println(mylist);
+        System.out.println("----------");
+        mylist.remove(3);
+        System.out.println(mylist);
     }
 }
