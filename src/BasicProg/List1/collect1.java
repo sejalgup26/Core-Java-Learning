@@ -1,5 +1,5 @@
 package src.BasicProg.List1;
-//
+//shuffle and reverse
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
