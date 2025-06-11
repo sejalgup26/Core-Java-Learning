@@ -1,8 +1,8 @@
 package src.BasicProg.priority;
-//adding data in queue
+
 import java.util.PriorityQueue;
 
-public class q1 {
+public class q2 {
     public static void main(String[] args) {
         PriorityQueue<String> pr= new PriorityQueue<String>();
         pr.add("Red");
@@ -10,5 +10,8 @@ public class q1 {
         pr.add("blue");
         pr.add("Black");
         System.out.println(pr);
+        for(String elements: pr){
+            System.out.println(elements);
+        }
     }
 }
